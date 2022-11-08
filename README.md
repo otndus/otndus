@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 </div>
-<div align=center><h3>✨ Most Used Languages ✨</h3>
 
 <br>
 
