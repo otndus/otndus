@@ -5,7 +5,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
-  👩‍🎓 Collage : MYONGJI UNIV.<br>
+  👩‍🎓 Univ : MYONGJI UNIV.<br>
   💻 Major : Convergence Software Engineering<br>
   🌱 I'm studying to be a backend Developer. 🌱 <br>
   <br>
