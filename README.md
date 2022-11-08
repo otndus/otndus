@@ -1,4 +1,3 @@
-### Hi there 👋
 <div><h1>👋  Hi, there 👋</h1></div>
 <div align = right> <a href="mailto:xuyeon219@gmail.com">
     <img 
