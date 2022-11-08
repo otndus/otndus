@@ -38,8 +38,6 @@
 </div>
 <div align=center><h3>✨ Most Used Languages ✨</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otndus7&layout=compact&theme=nightowl)](https://github.com/otndus/otndus)
-
 <br>
 
 	
