@@ -1,24 +1,11 @@
 ### Hi there 👋
 <div><h1>👋  Hi, there 👋</h1></div>
-<div align = right> <a href="https://www.instagram.com/chaeng._.ni_/">
-    <img 
-        src="http://img.shields.io/badge/-Insta-black?style=flat&logo=Instagram&link=https://instagram.com/chaeng._.ni_/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="mailto:monynony0203@gmail.com">
+<div align = right> <a href="mailto:xuyeon219@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:monynony0203@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://bony-squirrel-b48.notion.site/Ari-e748ab73539f46b8b1f7d1e648206ae4">
-    <img 
-        src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ReverbNation&logoColor=white&link=https://bony-squirrel-b48.notion.site/Ari-e748ab73539f46b8b1f7d1e648206ae4"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://monynony0203.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Tistory&link=https://monynony0203.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></div>
+</div>
   👩‍🎓 Collage : MYONGJI UNIV.<br>
   💻 Major : Convergence Software Engineering<br>
   🌱 I'm studying to be a backend Developer. 🌱 <br>
